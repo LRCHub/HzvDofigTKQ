@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Let It Be",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-22T06:15:23.724122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Let_It_Be_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Let_It_Be_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Free (Let It Be) (Rezonance Q mix)",
+      "artist": "Stuart",
+      "has_synced": false,
+      "path": "select/03_Free_(Let_It_Be)_(Rezonance_Q_mix)_Stuart.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stuart / Free (let it be) {Rezonance Q mix}",
+      "artist": "Ministry Of Sound",
+      "has_synced": false,
+      "path": "select/04_Stuart___Free_(let_it_be)_{Rezonance_Q_mix}_Ministry_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let It Be No More",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/05_Let_It_Be_No_More_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let It Be No More (instrumental)",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/06_Let_It_Be_No_More_(instrumental)_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby Let It Be",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/07_Baby_Let_It_Be_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby let it be",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/08_Baby_let_it_be_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Let It Be Me",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/09_Don't_Let_It_Be_Me_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let It Be",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/10_Let_It_Be_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let It Be - Live In Columbus",
+      "artist": "Jacob Collier",
+      "has_synced": false,
+      "path": "select/11_Let_It_Be_-_Live_In_Columbus_Jacob_Collier.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Let_It_Be_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "O Let It Be",
+      "artist": "Bonnie \"Prince\" Billy",
+      "has_synced": false,
+      "path": "select/13_O_Let_It_Be_Bonnie__Prince__Billy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let It Be Me - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/14_Let_It_Be_Me_-_Remastered_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let It Be",
+      "artist": "Dyme Def",
+      "has_synced": false,
+      "path": "select/15_Let_It_Be_Dyme_Def.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Let_It_Be_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Let_It_Be_The_Beatles.txt"
+    }
+  ]
+}
